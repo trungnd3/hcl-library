@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Borrowing component using RTL render snapshot 1`] = `
+<div
+  className="mt-5 text-center"
+>
+  <h3>
+    You are currently not borrowing any book.
+  </h3>
+</div>
+`;

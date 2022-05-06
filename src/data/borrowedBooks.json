@@ -1,0 +1,37 @@
+{
+  "trung": [
+    {
+      "id": "b1",
+      "name": "harry potter 1",
+      "author": "J.K.Rowling",
+      "category": "fiction",
+      "borrowDate": "2022-05-10",
+      "returnDate": "2022-05-16"
+    },
+    {
+      "id": "b2",
+      "name": "harry potter 2",
+      "author": "J.K.Rowling",
+      "category": "fiction",
+      "borrowDate": "2022-04-15",
+      "returnDate": ""
+    },
+    {
+      "id": "b3",
+      "name": "harry potter 3",
+      "author": "J.K.Rowling",
+      "category": "fiction",
+      "borrowDate": "2022-04-20",
+      "returnDate": ""
+    },
+    {
+      "id": "b4",
+      "name": "sherlock homes",
+      "author": "Conan Doyle",
+      "category": "fiction",
+      "borrowDate": "2022-04-25",
+      "returnDate": ""
+    }
+  ],
+  "linh": []
+}
